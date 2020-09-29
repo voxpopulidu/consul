@@ -85,9 +85,6 @@ Layout/MultilineBlockLayout:
 Layout/SpaceAroundEqualsInParameterDefault:
   Enabled: true
 
-Layout/SpaceAroundMethodCallOperator:
-  Enabled: true
-
 Layout/SpaceInLambdaLiteral:
   Enabled: true
 
